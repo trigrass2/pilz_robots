@@ -2,6 +2,11 @@
 Changelog for package prbt_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* changing references from pilz_command_planner to trapezoidal_command_planner
+* Contributors: Pilz GmbH and Co. KG
+
 0.5.13 (2019-12-04)
 -------------------
 
